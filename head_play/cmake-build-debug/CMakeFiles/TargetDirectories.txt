@@ -1,0 +1,3 @@
+/home/peter/CLionProjects/head_play/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peter/CLionProjects/head_play/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/peter/CLionProjects/head_play/cmake-build-debug/CMakeFiles/head_play.dir

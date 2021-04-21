@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++  -g   CMakeFiles/dictionary.dir/main.cpp.o CMakeFiles/dictionary.dir/dict.cpp.o  -o dictionary 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peter/CLionProjects/dictionary/dict.cpp
+dict.h
+/home/peter/CLionProjects/dictionary/dict.h
+
+/home/peter/CLionProjects/dictionary/dict.h
+functional
+-
+iostream
+-
+vector
+-
+

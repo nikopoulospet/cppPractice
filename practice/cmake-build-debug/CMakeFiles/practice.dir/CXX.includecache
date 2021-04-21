@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peter/CLionProjects/practice/main.cpp
+iostream
+-
+unordered_map
+/home/peter/CLionProjects/practice/unordered_map
+string.h
+/home/peter/CLionProjects/practice/string.h
+
